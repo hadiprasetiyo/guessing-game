@@ -45,7 +45,7 @@ File ini mengatur tampilan utama dalam game dan penginputan form:
 
 ## 🎨 Using Tailwind CSS
 
-Proyek ini menggunakan [Tailwind CSS](https://tailwindcss.com/) untuk styling. Anda dapat melihat link CDN untuk Tailwind CSS di dalam file `index.php`.
+Project ini menggunakan [Tailwind CSS](https://tailwindcss.com/) untuk styling. Anda dapat melihat link CDN untuk Tailwind CSS di dalam file `index.php`.
 
 ## 🌟 Features
 
@@ -55,7 +55,7 @@ Proyek ini menggunakan [Tailwind CSS](https://tailwindcss.com/) untuk styling. A
 
 ## 📜 License
 
-Proyek ini bersifat open-source dan tersedia di bawah [Lisensi MIT](LICENSE).
+Project ini bersifat open-source dan tersedia di bawah [Lisensi MIT](LICENSE).
 
 ## 👤 Author
 
