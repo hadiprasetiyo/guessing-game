@@ -3,13 +3,13 @@
 Selamat datang di Game Tebak Angka Sederhana! Ini adalah game berbasis web di mana Anda dapat menebak angka yang benar dalam rentang tertentu. Game ini dibuat menggunakan PHP dan menggunakan konsep Pemrograman Berorientasi Objek (OOP).
 
 ## 📝 Project Structure
-
+```
 ├── classes
 │ └── GuessingGame.php
 ├── img
 │ └── nyan-cat.gif
 └── index.php
-
+```
 ## 📄 How to Play
 
 1. Masukkan teks pada kolom "Masukkan text".
