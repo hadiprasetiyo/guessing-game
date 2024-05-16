@@ -8,6 +8,8 @@ Selamat datang di Game Tebak Angka Sederhana! Ini adalah game berbasis web di ma
 │ └── GuessingGame.php
 ├── img
 │ └── nyan-cat.gif
+├── LICENSE
+├── README.md
 └── index.php
 ```
 ## 📄 How to Play
