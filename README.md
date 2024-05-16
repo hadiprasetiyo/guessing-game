@@ -55,7 +55,7 @@ Project ini menggunakan [Tailwind CSS](https://tailwindcss.com/) untuk styling. 
 
 ## 📜 License
 
-Project ini bersifat open-source dan tersedia di bawah [Lisensi MIT](LICENSE).
+Project ini bersifat open-source dan tersedia di bawah [MIT License](LICENSE).
 
 ## 👤 Author
 
